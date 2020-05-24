@@ -1,0 +1,11 @@
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\ViewingInsights.Services.exe
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\ViewingInsights.Services.deps.json
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\ViewingInsights.Services.runtimeconfig.json
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\ViewingInsights.Services.runtimeconfig.dev.json
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\ViewingInsights.Services.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\ViewingInsights.Services.pdb
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.csprojAssemblyReference.cache
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.AssemblyInfoInputs.cache
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.AssemblyInfo.cs
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.pdb
