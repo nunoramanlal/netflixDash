@@ -73,6 +73,20 @@ using ViewingInsights.App.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 10 "C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\_Imports.razor"
+using Radzen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\_Imports.razor"
+using Radzen.Blazor;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\Pages\FetchData.razor"
 using ViewingInsights.App.Data;
 

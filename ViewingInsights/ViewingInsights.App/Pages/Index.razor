@@ -1,24 +1,48 @@
 ﻿@page "/"
 
-@using ViewingInsights.App.Data
-<h1>Hello, world!</h1>
+<div class="row">
+    <div class="col-md-6">
+        <h3>Single file upload</h3>
+        <RadzenUpload Url="upload/single" Style="margin-bottom: 20px;" Progress="@((args) => OnProgress(args))" />
+    </div>
 
-Welcome to your new app.
-
-<EditForm Model="@exampleModel" OnValidSubmit="HandleValidSubmit">
-    <DataAnnotationsValidator />
-    <ValidationSummary />
-
-    <InputText id="name" @bind-Value="exampleModel.Name" />
-
-    <button type="submit">Submit</button>
-</EditForm>
+    <div class="col-md-6">
+        <h3>Events</h3>
+        <RadzenCard style="overflow: auto;height:500px;">
+            <RadzenProgressBar Value="@progress" Unit="@info" Visible="@(progress > 0)" Style="margin-bottom: 20px" />
+            @foreach (var e in events.OrderByDescending(i => i.Key))
+            {
+                @e.Value
+                <br />
+            }
+        </RadzenCard>
+    </div>
+</div>
 
 @code {
-    private ExampleModel exampleModel = new ExampleModel();
+    RadzenUpload upload;
 
-    private void HandleValidSubmit()
+    int progress;
+    string info;
+    Dictionary<DateTime, string> events = new Dictionary<DateTime, string>();
+
+    void OnProgress(UploadProgressArgs args)
     {
-        Console.WriteLine(exampleModel.Name);
+        this.info = $"{args.Loaded} of {args.Total} bytes.";
+        this.progress = args.Progress;
+
+        if (args.Progress == 100)
+        {
+            events.Clear();
+            foreach (var file in args.Files)
+            {
+                events.Add(DateTime.Now, $"Uploaded: {file.Name} / {file.Size} bytes");
+            }
+        }
+    }
+
+    void Completed(UploadCompleteEventArgs args)
+    {
+        events.Add(DateTime.Now, $"Server response: {args.RawResponse}");
     }
 }
