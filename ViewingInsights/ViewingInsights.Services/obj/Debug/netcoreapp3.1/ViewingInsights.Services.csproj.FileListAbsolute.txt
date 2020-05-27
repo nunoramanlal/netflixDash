@@ -9,3 +9,17 @@ C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\ob
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.AssemblyInfo.cs
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.dll
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.pdb
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\Radzen.Blazor.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.Services\obj\Debug\netcoreapp3.1\ViewingInsights.Services.csproj.CopyComplete

@@ -39,6 +39,7 @@ C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\bin\Deb
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\bin\Debug\netcoreapp3.1\Radzen.Blazor.dll
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\obj\Debug\netcoreapp3.1\ViewingInsights.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\obj\Debug\netcoreapp3.1\RazorDeclaration\ViewingInsights.App.dll
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
 C:\Users\nunor\Documents\netflixDash\ViewingInsights\ViewingInsights.App\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
