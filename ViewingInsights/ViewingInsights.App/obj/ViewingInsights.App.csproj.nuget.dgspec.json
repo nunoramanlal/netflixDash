@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nunor\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj": {}
+    "C:\\Users\\Sonica Samgi\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nunor\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj": {
+    "C:\\Users\\Sonica Samgi\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nunor\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj",
+        "projectUniqueName": "C:\\Users\\Sonica Samgi\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj",
         "projectName": "ViewingInsights.App",
-        "projectPath": "C:\\Users\\nunor\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj",
-        "packagesPath": "C:\\Users\\nunor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nunor\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\obj\\",
+        "projectPath": "C:\\Users\\Sonica Samgi\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\ViewingInsights.App.csproj",
+        "packagesPath": "C:\\Users\\Sonica Samgi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sonica Samgi\\Documents\\netflixDash\\ViewingInsights\\ViewingInsights.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\nunor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sonica Samgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,9 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://libget/nuget/DerivcoLib": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget-cache.ludologic.com/api/odata": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -62,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

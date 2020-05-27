@@ -1,0 +1,13 @@
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\bin\Debug\netcoreapp3.1\fileReader_sonii.exe
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\bin\Debug\netcoreapp3.1\fileReader_sonii.deps.json
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\bin\Debug\netcoreapp3.1\fileReader_sonii.runtimeconfig.json
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\bin\Debug\netcoreapp3.1\fileReader_sonii.runtimeconfig.dev.json
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\bin\Debug\netcoreapp3.1\fileReader_sonii.dll
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\bin\Debug\netcoreapp3.1\fileReader_sonii.pdb
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\obj\Debug\netcoreapp3.1\fileReader_sonii.csproj.CoreCompileInputs.cache
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\obj\Debug\netcoreapp3.1\fileReader_sonii.AssemblyInfoInputs.cache
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\obj\Debug\netcoreapp3.1\fileReader_sonii.AssemblyInfo.cs
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\obj\Debug\netcoreapp3.1\fileReader_sonii.dll
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\obj\Debug\netcoreapp3.1\fileReader_sonii.pdb
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\obj\Debug\netcoreapp3.1\fileReader_sonii.genruntimeconfig.cache
+C:\Users\Sonica Samgi\Documents\netflixDash\ViewingInsights\fileReader_sonii\obj\Debug\netcoreapp3.1\fileReader_sonii.csprojAssemblyReference.cache
